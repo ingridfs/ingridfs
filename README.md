@@ -4,15 +4,12 @@
 
 - 📚  Currently learning more about ReactJs.
 - 💼  Working with: Angular, Ionic, Typescript and Sass.
-- 🎯  Goals: learn more about Animations, State Management, Clean Code and Desing Pattens
+- 🎯  Goals: learn more about Animations, State Management
 
 <br />
 
 ### You can find me on: 
 [![Linkedin: ingridfsantos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridfsantos/)](https://www.linkedin.com/in/ingridfsantos/)
-
-<br />
-
 
 <br />
 
@@ -30,8 +27,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-282C34?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 
 
-<br />
 
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/ingridfs
 
