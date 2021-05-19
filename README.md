@@ -4,7 +4,7 @@
 
 - 📚  Currently learning more about ReactJs.
 - 💼  Working with: Angular, Ionic, Typescript and Sass.
-- 🎯  Goals: learn more about Animations, State Management
+- 🎯  Goals: learn more about animations and state management.
 
 <br />
 
