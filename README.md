@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-### I'm Ingrid Fernandes and I'm a Junior Front End Developer.
+### I'm Ingrid Fernandes and I'm a Front End Developer.
 
 - 📚  Currently learning more about ReactJs.
-- 💼  Working with: Angular, Ionic, Typescript and Sass.
+- 💼  Working with: JavaScript.
 - 🎯  Goals: learn more about animations and state management.
 
 <br />
 
 ### You can find me on: 
 [![Linkedin: ingridfsantos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridfsantos/)](https://www.linkedin.com/in/ingridfsantos/)
+[![CodePen: ingridfs](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/ingridfs)](https://codepen.io/ingridfs)
 
 <br />
 
