@@ -3,7 +3,7 @@
 ### I'm Ingrid Fernandes and I'm a Front End Developer.
 
 - 📚  Currently learning more about ReactJs.
-- 💼  Working with: JavaScript.
+- 💼  Working with: React Native.
 - 🎯  Goals: learn more about animations and state management.
 
 <br />
